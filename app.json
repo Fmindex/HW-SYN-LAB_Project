@@ -1,0 +1,18 @@
+{
+    "expo": {
+        "sdkVersion": "19.0.0",
+        "orientation": "portrait",
+        "privacy": "public",
+        "icon": "./app.png",
+        "primaryColor": "#843cf6",
+        "loading": {
+            "backgroundImage": "./splash.png",
+            "hideExponentText": true
+        },
+        "androidStatusBarColor": "#843cf6",
+        "androidStatusBar": {
+            "barStyle": "light-content",
+            "backgroundColor": "#843cf6"
+        }
+    }
+}
